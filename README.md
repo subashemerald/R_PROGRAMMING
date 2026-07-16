@@ -173,5 +173,6 @@ This project helps understand:
 
 ---
 
-##Visualization
+## Visualization
+
 <img width="671" height="725" alt="RPRO" src="https://github.com/user-attachments/assets/c5dc6f4e-9f22-46cc-9677-d9c59e26c9f7" />
